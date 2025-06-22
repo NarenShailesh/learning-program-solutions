@@ -1,6 +1,6 @@
 # 💼 Cognizant Digital Nurture 4.0 – Java Full Stack Engineering (FSE) Track
 
-Hello! I’m currently enrolled in the **Digital Nurture 4.0 – Java FSE Track** conducted by **Cognizant**. This structured deep skilling program is designed to strengthen industry-ready full stack development skills through a combination of self-paced learning and hands-on assignments.
+Hello! I’m currently enrolled in the **Digital Nurture 4.0 – Java FSE Track** conducted by **Cognizant**. This structured deep skilling program is designed to strengthen industry-ready skills through a combination of self-paced learning and hands-on assignments.
 
 ---
 
@@ -47,7 +47,7 @@ Each week focuses on a different module and includes:
 
 ## 🏁 Goal
 
-To complete the full skilling journey, ace the final assessment, and qualify for interviews and onboarding at Cognizant as a **Java Full Stack Engineer**.
+To complete the full skilling journey, ace the final assessment, and qualify for interviews and onboarding at Cognizant.
 
 ---
 
